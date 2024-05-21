@@ -1,3 +1,4 @@
 Contenu du deuxième fichier.
 
 Ceci est une ligne.
+Ceci en est une autre.
