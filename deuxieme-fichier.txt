@@ -1,0 +1,3 @@
+Contenu du deuxième fichier.
+
+Ceci est une ligne.
